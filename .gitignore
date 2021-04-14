@@ -1,6 +1,20 @@
 # Compiled class file
 *.class
 
+# Maven ignore
+target/
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
 # Log file
 *.log
 
