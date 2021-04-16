@@ -40,7 +40,7 @@ public class ForCommitConflict {
 		System.out.println("web add 002");
 		System.out.println("web add 003");
 		System.out.println("machine add 004");
-		System.out.println("web add 004");
+		System.out.println("web add 004 update+");
 	}
 	
 }
