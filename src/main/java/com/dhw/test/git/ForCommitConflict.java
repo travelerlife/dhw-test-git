@@ -18,6 +18,7 @@ public class ForCommitConflict {
 	
 	public void methodB() {
 		System.out.println("local machine another method");
+		System.out.println("web add...");
 	}
 	
 	public void methodC() {
