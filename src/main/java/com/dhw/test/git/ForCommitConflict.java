@@ -8,7 +8,7 @@ package com.dhw.test.git;
 public class ForCommitConflict {
 	
 	public void methodA() {
-		System.out.println("local machine");
+		System.out.println("local machine again");
 		System.out.println("local machine");
 		System.out.println("local machine");
 		System.out.println("local machine");
