@@ -23,6 +23,8 @@ public class ForCommitConflict {
 	
 	public void methodC() {
 		System.out.println("machine no conflict old commit，machine update later");
+		System.out.println("machine no conflict old commit , web update");
+		System.out.println("machine resolved");
 	}
 	
 }
