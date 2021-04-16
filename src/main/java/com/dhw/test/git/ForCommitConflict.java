@@ -16,4 +16,8 @@ public class ForCommitConflict {
 		System.out.println("local machine");
 	}
 	
+	public void methodB() {
+		System.out.println("local machine another method");
+	}
+	
 }
