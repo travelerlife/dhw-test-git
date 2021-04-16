@@ -11,7 +11,7 @@ public class ForCommitConflict {
 		System.out.println("local machine again");
 		System.out.println("local machine");
 		System.out.println("web commit");
-		System.out.println("web commit");
+		System.out.println("web commit again");
 		System.out.println("local machine");
 		System.out.println("local machine");
 	}
