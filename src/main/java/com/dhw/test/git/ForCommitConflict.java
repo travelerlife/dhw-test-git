@@ -26,6 +26,7 @@ public class ForCommitConflict {
 		System.out.println("machine no conflict old commit , web update");
 		System.out.println("machine resolved");
 		System.out.println("web add new");
+		System.out.println("machine add");
 	}
 	
 	public void methodD() {
