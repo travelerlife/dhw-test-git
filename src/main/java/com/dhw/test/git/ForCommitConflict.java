@@ -28,4 +28,8 @@ public class ForCommitConflict {
 		System.out.println("web add new");
 	}
 	
+	public void methodD() {
+		System.out.println("machine add new");
+	}
+	
 }
