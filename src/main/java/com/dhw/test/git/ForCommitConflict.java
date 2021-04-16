@@ -22,7 +22,7 @@ public class ForCommitConflict {
 	}
 	
 	public void methodC() {
-		System.out.println("machine no conflict old commit");
+		System.out.println("machine no conflict old commit，machine update later");
 	}
 	
 }
