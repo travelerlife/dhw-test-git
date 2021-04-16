@@ -28,6 +28,7 @@ public class ForCommitConflict {
 		System.out.println("web add new");
 		System.out.println("machine add");
 		System.out.println("machine add 001");
+		System.out.println("machine add 002");
 	}
 	
 	public void methodD() {
