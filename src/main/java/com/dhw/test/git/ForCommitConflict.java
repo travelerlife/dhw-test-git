@@ -20,4 +20,8 @@ public class ForCommitConflict {
 		System.out.println("local machine another method");
 	}
 	
+	public void methodC() {
+		System.out.println("machine no conflict old commit");
+	}
+	
 }
