@@ -27,13 +27,14 @@ public class ForCommitConflict {
 		System.out.println("machine resolved");
 		System.out.println("web add new");
 		System.out.println("machine add");
+		System.out.println("machine add 001");
 	}
 	
 	public void methodD() {
 		System.out.println("machine add new");
 		System.out.println("web add 2021年4月17日01:56:22");
 		System.out.println("web add 2021年4月17日01:57:39");
-		System.out.println("web add 001);
+		System.out.println("web add 001");
 	}
 	
 }
