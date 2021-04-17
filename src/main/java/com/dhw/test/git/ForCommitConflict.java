@@ -18,6 +18,10 @@ public class ForCommitConflict {
 		System.out.println("B在A解决冲突并提交后，推上前，抢先提交，A恰好没pull而是直接push。");
 		System.out.println("测试强推覆盖，B提交");
 		System.out.println("测试强推覆盖，A要冲突了");
+		
+		System.out.println("测试强推覆盖，B提交");
+		
+		
 	}
 	
 	public void methodB() {
