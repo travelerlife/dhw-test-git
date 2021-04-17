@@ -15,6 +15,7 @@ public class ForCommitConflict {
 		System.out.println("local machine");
 		System.out.println("local machine");
 		System.out.println("B在A解决冲突并提交后，推上前，抢先提交。");
+		System.out.println("B在A解决冲突并提交后，推上前，抢先提交，A恰好没pull而是直接push。");
 	}
 	
 	public void methodB() {
