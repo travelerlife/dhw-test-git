@@ -22,7 +22,7 @@ public class ForCommitConflict {
 		System.out.println("测试强推覆盖，B提交");
 		System.out.println("测试强推覆盖，A要冲突了");
 		
-		System.out.println("测试强推覆盖，B提交，A修改");
+		System.out.println("测试强推覆盖，AAAA");
 	}
 	
 	public void methodB() {
