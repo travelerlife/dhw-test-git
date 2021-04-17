@@ -14,6 +14,7 @@ public class ForCommitConflict {
 		System.out.println("web commit again");
 		System.out.println("local machine");
 		System.out.println("local machine");
+		System.out.println("B在A解决冲突并提交后，推上前，抢先提交。");
 	}
 	
 	public void methodB() {
