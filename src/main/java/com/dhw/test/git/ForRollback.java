@@ -7,4 +7,11 @@ package com.dhw.test.git;
  */
 public class ForRollback {
 	
+	void method1() {
+		System.out.println("A 增加方法1");
+	}
+	
+	public static void main(String[] args) {
+		
+	}
 }
