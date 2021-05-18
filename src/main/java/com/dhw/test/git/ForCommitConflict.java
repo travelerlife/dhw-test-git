@@ -67,9 +67,15 @@ public class ForCommitConflict {
 	}
 	
 	public void methodF1() {
+<<<<<<< Upstream, based on branch 'master' of https://github.com/travelerlife/dhw-test-git.git
 		System.out.println("B中途提交推送，与A的提交未推送冲突");	
 	}
 		
+=======
+		System.out.println("A多次提交再推送（最终推送不成功，与B冲突）：A提交1");
+	}
+	
+>>>>>>> 54e1878 A多次提交再推送（最终推送不成功，与B冲突）：A提交1
 	public static void main(String[] args) {
 		// 两种解决冲突的方式和原理。
 	}
