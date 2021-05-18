@@ -66,6 +66,10 @@ public class ForCommitConflict {
 		System.out.println("B中途多次提交：B提交2");
 	}
 	
+	public void methodF1() {
+		System.out.println("B中途提交推送，与A的提交未推送冲突");	
+	}
+		
 	public static void main(String[] args) {
 		// 两种解决冲突的方式和原理。
 	}
