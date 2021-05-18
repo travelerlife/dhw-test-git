@@ -58,6 +58,10 @@ public class ForCommitConflict {
 		
 	}
 	
+	public void methodE2() {
+		System.out.println("B中途多次提交：B提交1");
+	}
+	
 	public static void main(String[] args) {
 		// 两种解决冲突的方式和原理。
 	}
