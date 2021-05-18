@@ -62,10 +62,6 @@ public class ForCommitConflict {
 	}
 	
 	public void methodE2() {
-		
-	}
-	
-	public void methodE2() {
 		System.out.println("B中途多次提交：B提交1");
 		System.out.println("B中途多次提交：B提交2");
 	}
