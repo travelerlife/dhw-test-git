@@ -73,6 +73,7 @@ public class ForCommitConflict {
 		
 =======
 		System.out.println("A多次提交再推送（最终推送不成功，与B冲突）：A提交1");
+		System.out.println("A多次提交再推送（最终推送不成功，与B冲突）：A提交2");
 	}
 	
 >>>>>>> 54e1878 A多次提交再推送（最终推送不成功，与B冲突）：A提交1
