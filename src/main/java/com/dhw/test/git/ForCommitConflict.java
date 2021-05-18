@@ -54,6 +54,10 @@ public class ForCommitConflict {
 		System.out.println("web add 004 update+，2021年4月17日23:10:26");
 	}
 	
+	public void methodE() {
+		System.out.println("A多次提交再commit：A提交1");
+	}
+	
 	public static void main(String[] args) {
 		// 两种解决冲突的方式和原理。
 	}
