@@ -55,6 +55,10 @@ public class ForCommitConflict {
 	}
 	
 	public void methodE1() {
+		System.out.println("A多次提交再commit：A提交1");
+	}
+	
+	public void methodE2() {
 		
 	}
 	
