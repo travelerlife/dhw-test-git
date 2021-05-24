@@ -73,6 +73,10 @@ public class ForCommitConflict {
 		System.out.println("A多次提交再推送（最终推送不成功，与B冲突）：A提交3");
 	}
 	
+	public void methodG1() {
+		
+	}
+	
 	public static void main(String[] args) {
 		// 两种解决冲突的方式和原理。
 	}
