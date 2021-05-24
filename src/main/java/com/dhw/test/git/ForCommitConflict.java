@@ -74,7 +74,7 @@ public class ForCommitConflict {
 	}
 	
 	public void methodG1() {
-		
+		System.out.println("B提交，然后A也修改本行，再stash再pull");	
 	}
 	
 	public static void main(String[] args) {
